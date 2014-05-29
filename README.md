@@ -1,7 +1,9 @@
 NoIP-bash-Sync
 ==============
 
-NoIP Synchronizer bash script for OS X
+<h2>NoIP Synchronizer bash script for OS X</h2>
+
+<b>Update your external IP for the service <a href="https://www.noip.com">No-IP</a>
 
 The initial script was not by me but by another person and unfortunately I do not remember and find where I got it. So please if you know the initial author or if you are this person contact me.
 

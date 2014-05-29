@@ -12,3 +12,5 @@ To scheldule the script to run when the computer boot and after each 5 minutes i
 You will find in the branch the file <b>com.noip.update.ip.plist</b> which is configured to run each 5 minutes from the computer boot.<br>
 Just put this file in your user library folder <b>/Users/%USERNAME%/Library/LaunchAgents<br>
 Do not forget to edit it to change the path of the script according with your location.
+
+This script script should work without any problem on Linux computer as well.

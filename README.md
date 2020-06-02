@@ -1,6 +1,8 @@
 NoIP-bash-Sync
 ==============
 
+This repository is now abandoned, now a lot of router implement noip in there interface.
+
 <h3>NoIP Synchronizer bash script for OS X</h3>
 
 <h4>Update your external IP for the service <a href="https://www.noip.com">No-IP</h4>
